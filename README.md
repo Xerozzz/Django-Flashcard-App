@@ -7,6 +7,7 @@ Meant for python 3.9 (most other versions work too) and Django 4.0.4
 1. `git clone` this repository
 2. Create a virtualenv if you want
 3. Install dependencies using `pip install -r requirements.txt`
+4. Migrate the database using `py manage.py migrate`
 4. Run the server using `py manage.py runserver`
 5. Use the application as you wish
 
